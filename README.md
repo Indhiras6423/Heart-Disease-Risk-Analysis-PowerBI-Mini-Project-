@@ -106,7 +106,7 @@ Power BI instantly generates visual answers.
 
 ## 📄 Project Files
 📊 **Power BI Dashboard PDF:**  
-[Download PDF](Heart%20Disease%20dashboard%20pdf%20(1).pdf)
+(Heart Disease dashboard pdf.pdf)
 
 ---
 
@@ -129,5 +129,5 @@ risk factors such as **age, diabetes, obesity, and hypertension**.
 ## 📬 Contact
 Connect with me on LinkedIn:
 
-🔗 **LinkedIn:** [Indhira](www.linkedin.com/in/indhira4623)
+🔗 **LinkedIn:** (www.linkedin.com/in/indhira4623)
 
