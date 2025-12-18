@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Risk Analysis | Power BI (Mini Project)
+                                                                # ❤️ Heart Disease Risk Analysis | Power BI (Mini Project)
 
 ## 📌 Project Overview
 This project presents an interactive **Power BI dashboard** that analyzes heart disease risk
@@ -101,12 +101,6 @@ Power BI instantly generates visual answers.
 
 ### 🔹  Key Influencers
 ![Drill Down Analysis](Screenshot%202025-12-17%20195656.png)
-
----
-
-## 📄 Project Files
-📊 **Power BI Dashboard PDF:**  
-(Heart Disease dashboard pdf.pdf)
 
 ---
 
