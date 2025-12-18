@@ -93,13 +93,13 @@ Power BI instantly generates visual answers.
 
 ## 📷 Dashboard Screenshots
 
-### 🔹 Dashboard Overview
+### 🔹 Drill-Down Analysis
 ![Dashboard Overview](Screenshot%202025-12-17%20195231.png)
 
-### 🔹 AI Insights & Key Influencers
+### 🔹 AI Insights 
 ![AI Insights](Screenshot%202025-12-17%20195413.png)
 
-### 🔹 Drill-Down Analysis
+### 🔹  Key Influencers
 ![Drill Down Analysis](Screenshot%202025-12-17%20195656.png)
 
 ---
@@ -129,5 +129,5 @@ risk factors such as **age, diabetes, obesity, and hypertension**.
 ## 📬 Contact
 Connect with me on LinkedIn:
 
-🔗 **LinkedIn:** [Indhira Krishna](PASTE-YOUR-LINKEDIN-URL-HERE)
+🔗 **LinkedIn:** [Indhira](www.linkedin.com/in/indhira4623)
 
