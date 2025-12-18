@@ -1,4 +1,4 @@
-                                                                # ❤️ Heart Disease Risk Analysis | Power BI (Mini Project)
+# ❤️ Heart Disease Risk Analysis | Power BI (Mini Project)
 
 ## 📌 Project Overview
 This project presents an interactive **Power BI dashboard** that analyzes heart disease risk
